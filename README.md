@@ -3,7 +3,8 @@
 <h1 align="left`">Hi! 👋</h1>    
 <h2 align="left`" style="font-size: larger">I'm Boris.</h2>
 
-![](https://img.shields.io/badge/Java-Senior-informational?style=flat&logo=Java&logoColor=none&color=600)
+![](https://img.shields.io/badge/Java-Senior%20developer-informational?style=flat&logo=Java&logoColor=none&color=600)
+
 ![](https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=Spring&color=080)
 ![](https://img.shields.io/badge/Spring-Data%20JPA-informational?style=flat&logo=Spring&color=bcbf8a)
 ![](https://img.shields.io/badge/Hibernate-Data%20JPA?style=flat&color=eeeeee&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIxMCAyOTciPjxwYXRoIGZpbGw9IiM1OTY2NmMiIGQ9Ik0yOC40OTkgMTk0LjYzN2wtNTEuMzg4LTg5LjE3NkwyOC41MiAxNi40Mmw1MS40MSA4OS4wNHoiLz48cGF0aCBmaWxsPSIjYmNhZTc5IiBkPSJNNzkuOTYgMTA1LjQ2NGwxMDIuODQ1LS4wMDMtNTEuNDM3LTg5LjAzOEgyOC41NDh6Ii8+PHBhdGggZmlsbD0iIzU5NjY2YyIgZD0iTTE4Mi43NyAxMDUuNTAybDUxLjM4NyA4OS4xNzYtNTEuNDA4IDg5LjA0Mi01MS40MDgtODkuMDQyeiIvPjxwYXRoIGZpbGw9IiNiY2FlNzkiIGQ9Ik0xMzEuMzEgMTk0LjY3bC0xMDIuODQ2LjAwOEw3OS45IDI4My43MTFoMTAyLjgyMnoiLz48L3N2Zz4=)
