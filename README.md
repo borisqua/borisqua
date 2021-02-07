@@ -1,5 +1,8 @@
 ![banner](pics/svg/banners/banner_v1_optimized.svg)
 
+<h1 align="left`">Hi! 👋</h1>    
+<h2 align="left`" style="font-size: larger">I'm Boris.</h2>
+
 ![](https://img.shields.io/badge/Java-Senior-informational?style=flat&logo=Java&logoColor=none&color=600)
 ![](https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=Spring&color=080)
 ![](https://img.shields.io/badge/Spring-Data%20JPA-informational?style=flat&logo=Spring&color=bcbf8a)
@@ -11,9 +14,6 @@
 ![](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=css3&color=blue)
 ![](https://img.shields.io/badge/sass-styles-informational?style=flat&logo=sass&color=995588)
 ![](https://img.shields.io/badge/JavaScript-Master?style=flat&logo=JavaScript&color=gray)
-
-<h1 align="left`">Hi! 👋</h1>    
-<h2 align="left`" style="font-size: larger">I'm Boris.</h2>
 
 <p>
 A software architect, full-stack developer, and java enthusiast. 
