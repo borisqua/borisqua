@@ -3,7 +3,7 @@
 <h1 align="left`">Hi! 👋</h1>    
 <h2 align="left`" style="font-size: larger">I'm Boris.</h2>
 
-[![](https://img.shields.io/badge/Java-Senior%20developer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua)
+[![](https://img.shields.io/badge/Java-Senior%20developer%20level-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua)
 
 [![Spring Boot](https://img.shields.io/badge/Spring-Boot-080?style=flat&logo=Spring)](https://spring.io/projects/spring-boot)
 [![Spring Data](https://img.shields.io/badge/Spring-Data-bcbf8a?style=flat&logo=Spring&)](https://spring.io/projects/spring-data-jpa)
