@@ -1,9 +1,8 @@
-![banner](pics/svg/banners/banner_v1_optimized.svg)
 
-<h1 align="left`">Hi! 👋</h1>    
-<h2 align="left`" style="font-size: larger">I'm Boris.</h2>
+![banner](pics/svg/banners/banner_v3_optimized.svg)
+<h1 align="left`">Hi! 👋 I'm Boris. I could be your guide in the IT world...</h1>    
 
-[comment]: <> ([![]&#40;https://img.shields.io/badge/Java-Senior%20developer%20level-600?style=flat&logo=Java&logoColor=none&#41;]&#40;htts://github.org/borisqua&#41;)
+[![](https://img.shields.io/badge/Java-Senior%20developer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
 [![](https://img.shields.io/badge/Full%20Stack%20developer-060?style=flat)](htts://github.org/borisqua)
 
 [![Spring Boot](https://img.shields.io/badge/Spring-Boot-080?style=flat&logo=Spring)](https://spring.io/projects/spring-boot)
@@ -26,8 +25,3 @@
 [![node.js](https://img.shields.io/badge/node-js-689f63?style=flat&logo=node.js)](https://nodejs.org)
 [![SASS](https://img.shields.io/badge/Bootstrap-995588?style=flat&logo=Bootstrap&logoColor=white)](https://sass-lang.com/)
 
-<p>
-A software architect, full-stack developer, and java enthusiast. 
-Entrepreneur, creator, owner and director of a couple small enterprises. 
-Looking for a dream team and new project I could take part in.
-</p>
