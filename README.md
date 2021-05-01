@@ -1,6 +1,7 @@
 
 ![banner](pics/svg/banners/banner_v3_optimized.svg)
-<p align="left`">Hi! 👋 I'm Boris. I could be your guide in the IT world...</p>    
+
+<p align="left`">Hi! 👋 I'm Boris. </p>    
 
 [![](https://img.shields.io/badge/Java-Senior%20developer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
 [![](https://img.shields.io/badge/Full%20Stack%20developer-060?style=flat)](htts://github.org/borisqua)
