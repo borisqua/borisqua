@@ -1,8 +1,8 @@
 
 ![banner](pics/svg/banners/banner_v3_optimized.svg)
 
-<p align="left`">Hi! 👋 I'm a senior fullstack Java/JavaScript developer, and big fan of programming and IT. 
-This is my personal gitHub page filled with a handful of demo and pet projects, as well as some parts of some of my 
+<p align="left`">Hi! 👋 I'm a senior fullstack (Java/JavaScript) developer, and big fan of programming and IT. 
+This is my personal gitHub acc with a handful of demo and pet projects, as well as some tiny part of some of my 
 previous professional projects that I can legally show off :). </p>    
 
 [![](https://img.shields.io/badge/Java-Senior%20developer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
