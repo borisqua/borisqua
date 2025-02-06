@@ -1,12 +1,12 @@
 
 ![banner](pics/svg/banners/banner_v3_optimized.svg)
 
-<p align="left`">Hi! 👋 I'm a senior fullstack (Java/JavaScript) developer, and big fan of programming and IT. 
-This is my personal gitHub acc with a handful of demo and pet projects, as well as some tiny part of some of my 
-previous professional projects that I can legally show off :). </p>    
+<p align="left`">Hi! 👋 I'm a Senior Software Engineer, and big fan of AI, Programming and IT technologies. 
+This is my personal gitHub acc with a handful of demo projects </p>    
 
-[![](https://img.shields.io/badge/Java-Senior%20developer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
-[![](https://img.shields.io/badge/Full%20Stack%20developer-060?style=flat)](htts://github.org/borisqua)
+[![](https://img.shields.io/badge/Java-Senior%20software%20engineer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
+
+[//]: # ([![]&#40;https://img.shields.io/badge/Full%20Stack%20developer-060?style=flat&#41;]&#40;htts://github.org/borisqua&#41;)
 
 [![Spring Boot](https://img.shields.io/badge/Spring-Boot-080?style=flat&logo=Spring)](https://spring.io/projects/spring-boot)
 [![Spring Data](https://img.shields.io/badge/Spring-Data-bcbf8a?style=flat&logo=Spring&)](https://spring.io/projects/spring-data-jpa)
