@@ -1,8 +1,9 @@
 
 ![banner](pics/svg/banners/banner_v3_optimized.svg)
 
-<p align="left`">Hi! 👋 I'm a Senior Software Engineer, and big fan of AI, Programming and IT technologies. 
-This is my personal gitHub acc with a handful of demo projects </p>    
+<p>Hi! 👋 I'm a Senior Software Engineer, and big fan of IT technologies, Programming, and AI. 
+This is my personal gitHub account with a handful of toy projects. I've written a long ago, but for some reason I love them :)</p>    
+
 
 [![](https://img.shields.io/badge/Java-Senior%20software%20engineer-600?style=flat&logo=Java&logoColor=none)](htts://github.org/borisqua) 
 
